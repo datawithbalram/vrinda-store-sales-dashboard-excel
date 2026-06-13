@@ -1,32 +1,88 @@
-# Vrinda Store Sales Dashboard
+# Vrinda Store Sales Analysis Dashboard
 
 ## Project Overview
 
-This project analyzes Vrinda Store sales data using Microsoft Excel. The dashboard provides insights into sales performance, customer demographics, order status, sales channels, and regional performance.
+This project focuses on analyzing annual sales performance of Vrinda Store using Microsoft Excel. The objective was to transform raw sales data into meaningful business insights through data cleaning, pivot table analysis, visualizations, and an interactive dashboard.
 
-## Tools Used
+The project covers customer demographics, sales channels, regional performance, order status analysis, and revenue trends to support business decision-making.
+
+## Tools & Techniques Used
 
 * Microsoft Excel
+* Data Cleaning
+* Data Validation
 * Pivot Tables
 * Pivot Charts
 * Slicers
-* Data Cleaning
+* Conditional Formatting
+* Interactive Dashboard Design
+
+## Project Workflow
+
+### 1. Data Cleaning
+
+* Checked and handled missing values.
+* Standardized categorical fields.
+* Verified data consistency and accuracy.
+* Prepared dataset for analysis.
+
+### 2. Data Analysis
+
+Created multiple analytical worksheets to answer business questions:
+
+* Order vs Sales Analysis
+* Sales by Gender
+* Sales by Age Group
+* Order Status Analysis
+* Top Performing States
+* Sales Channel Analysis
+* Category-wise Performance Analysis
+
+### 3. Dashboard Development
+
+Built an interactive dashboard using:
+
+* Pivot Tables
+* Pivot Charts
+* Slicers
+* KPI Cards
+
+The dashboard allows users to filter and explore sales performance dynamically.
+
+## Key Business Questions Solved
+
+* Which customer segment generates the highest sales?
+* Which states contribute the most revenue?
+* Which sales channels drive maximum orders?
+* What is the distribution of order statuses?
+* Which age group contributes the highest sales?
+* How do male and female customers compare in purchasing behavior?
 
 ## Key Insights
 
-* Women customers generated higher sales than male customers.
-* Adult customers contributed the highest number of orders.
-* Amazon, Flipkart, and Myntra were the leading sales channels.
+* Female customers contributed a significantly larger share of total sales.
+* Adult customers represented the highest purchasing segment.
+* Amazon, Flipkart, and Myntra emerged as the leading sales channels.
 * Maharashtra and Karnataka were among the top-performing states.
-* Most orders were successfully delivered, indicating strong order fulfillment performance.
+* Delivered orders accounted for the majority of total orders.
+* Sales performance varied considerably across customer demographics and channels.
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+(Add dashboard screenshots here)
 
 ## Project Outcome
 
-Created an interactive dashboard to monitor sales trends, customer behavior, and business performance, helping stakeholders make data-driven decisions.
+Successfully converted raw retail sales data into an interactive Excel dashboard that provides actionable business insights and supports data-driven decision-making.
+
+## Skills Demonstrated
+
+* Data Analysis
+* Business Analytics
+* Excel Dashboarding
+* Data Visualization
+* Problem Solving
+* Reporting & Insights Generation
 
 ## Author
 
