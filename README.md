@@ -69,7 +69,7 @@ The dashboard allows users to filter and explore sales performance dynamically.
 
 ## Dashboard Preview
 
-(Add dashboard screenshots here)
+![Vrinda Store Dashboard](dashboard.png)
 
 ## Project Outcome
 
